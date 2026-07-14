@@ -16,7 +16,7 @@
 
 **🤖 给AI当老板：Agent作战团队** — 21章智能体团队实战手册
 
-[![给AI当老板](https://github.com/Madapexai/ai-agent-team-book/raw/main/assets/banner.png)](https://github.com/Madapexai/ai-agent-team-book)
+[![给AI当老板](https://github.com/Madapexai/ai-agent-team-book/raw/main/assets/banner.svg)](https://github.com/Madapexai/ai-agent-team-book)
 
 从选Agent到搭团队，从建制度到防翻车。不是概念科普，是从「知道」走向「做到」的实战手册。
 
@@ -26,7 +26,7 @@
 
 **🔄 别调Prompt了，去写Loop** — AI Agent时代的软件工程新范式
 
-[![别调Prompt了](https://github.com/Madapexai/loop-engineering-book/raw/main/assets/banner.png)](https://github.com/Madapexai/loop-engineering-book)
+[![别调Prompt了](https://github.com/Madapexai/loop-engineering-book/raw/main/assets/banner.svg)](https://github.com/Madapexai/loop-engineering-book)
 
 不写Prompt，写Loop。六大核心模块如何组合成完整的Loop系统，M-LOOP框架实战体系。中英双语。
 
@@ -36,7 +36,7 @@
 
 **🚗 智驾时代：Agent进化简史** — 从Prompt到自进化的AI驾驶之路
 
-[![智驾时代](https://github.com/Madapexai/agent-evolution-book/raw/main/assets/banner.png)](https://github.com/Madapexai/agent-evolution-book)
+[![智驾时代](https://github.com/Madapexai/agent-evolution-book/raw/main/assets/banner.svg)](https://github.com/Madapexai/agent-evolution-book)
 
 用自动驾驶的隐喻，将Agent从Prompt工程到Loop自进化的完整历程娓娓道来。
 
@@ -46,7 +46,7 @@
 
 **🔧 oh-my-loop** — 自进化的 AI Agent 技能框架
 
-[![oh-my-loop](https://github.com/Madapexai/oh-my-loop/raw/main/assets/banner.png)](https://github.com/Madapexai/oh-my-loop)
+[![oh-my-loop](https://github.com/Madapexai/oh-my-loop/raw/main/assets/banner.svg)](https://github.com/Madapexai/oh-my-loop)
 
 在循环中自主运行的 AI Agent 技能集合。核心引擎 + 应用层，自带自学习引擎。
 
