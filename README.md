@@ -9,7 +9,7 @@
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-11-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai)
 [![Followers](https://img.shields.io/badge/Followers-4-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-6-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-7-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai?tab=repositories)
 <!-- STATS-END -->
 
 ---
