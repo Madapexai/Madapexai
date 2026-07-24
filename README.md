@@ -7,7 +7,7 @@
 过去，我通过管理团队来创造价值；如今，AI 正在重塑一切。管理的本质正在从「管人」转向「管 Agent」——以 Agent 为兵，以系统为阵，打造一支真正有战斗力的超级团队。
 
 <!-- STATS-START -->
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-13-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-14-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai)
 [![Followers](https://img.shields.io/badge/Followers-5-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-7-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/Madapexai?tab=repositories)
 <!-- STATS-END -->
